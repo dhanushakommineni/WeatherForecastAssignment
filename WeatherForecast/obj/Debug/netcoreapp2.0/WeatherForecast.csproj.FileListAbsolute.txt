@@ -1,0 +1,11 @@
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.deps.json
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.runtimeconfig.json
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.runtimeconfig.dev.json
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.dll
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.AssemblyInfo.cs
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\bin\Debug\netcoreapp2.0\WeatherForecast.pdb
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.csprojAssemblyReference.cache
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.dll
+C:\Users\Dhanusha.Kommineni\source\repos\WeatherForecast\WeatherForecast\obj\Debug\netcoreapp2.0\WeatherForecast.pdb
